@@ -1,2 +1,2 @@
-# nikhilkapre.github.io
-Nikhil's Den
+# Nikhil Kapre's Den
+Welcome to this page. My name is Nikhil and I am an IT professional who loves to tinker around software development technologies. My primary areas of interest include distributed software development, AI/ML, and BigData technologies. Through this page, I hope to share my ideas as well as experiences and also learn from you in-turn. Stay tuned for more updates in the coming days.
